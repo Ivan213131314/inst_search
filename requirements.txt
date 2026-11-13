@@ -1,0 +1,4 @@
+yt-dlp>=2026.7.4
+requests>=2.32
+PyYAML>=6.0
+google-api-python-client>=2.180   # опционально: точные метрики через YouTube Data API v3

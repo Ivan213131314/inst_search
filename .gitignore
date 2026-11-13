@@ -1,0 +1,6 @@
+data/*.db
+data/*.md
+__pycache__/
+*.pyc
+.env
+/docs/YOUTUBE.md
